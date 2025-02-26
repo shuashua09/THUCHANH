@@ -2,13 +2,14 @@
   background: url("img/nen.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 12rem;
-  padding-bottom: 12rem;
+  padding-bottom: 24rem;
   text-align: center !important;
-  color: white !important;
+  color: black !important;
 }
 .slogan {
   text-align: center !important;
   width: 100%;
+  color: red
 }
 .row {
   display: flex;
@@ -30,6 +31,7 @@
 .cell_text{
   width: 50%
   padding-left: 5 rem;
+  color: darkblue;
 }
 .img {
   width: 100%;
